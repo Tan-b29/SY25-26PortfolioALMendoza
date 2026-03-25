@@ -10,7 +10,6 @@
     - Follow the following tasks that will ask you to reposition HTML elements then answer the guided question for each task on the pad paper. **Submit your paper at the end of the period and this is worth 20pts**. 
 
 ```
-html
 <!DOCTYPE html>
 <html>
 <head>
