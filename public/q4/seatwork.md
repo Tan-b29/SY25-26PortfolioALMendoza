@@ -1,16 +1,20 @@
-# Seatwork #2 - Getting to know CSS Position and z-index
+# Seatwork #2 - Getting to know CSS Position and z-index.
 ### This seatwork will ask you to implement the different CSS position on a given code.
-### short link: https://bit.ly/4c61P9K
+### short link to this .md file is: https://bit.ly/4c61P9K
+#### Resources (also found in Khub week 5)
+- [4 Minute Youtube Video on CSS Position](https://www.youtube.com/watch?v=YEmdHbQBCSQ)
+- [CSS Position Tutorial](https://roycan.github.io/CssPositioningZIndexLab/)
 
-### Instructions:
-1. Make a copy of this .md file to your Q4 repository and name it as **SectionLNseatwork2.md** example **9LiCruzSeatwork2.md**
+### Instructions: 
+1. This is individual submission in khub, but you can work with a partner.  When you submit in khub please place both your names in the submission bin.
 2. Guided Activity (30 minutes), please follow what is being required.  
 
-    - Copy the code below and paste it inside a new file in your vscode and then in your repository.  Name it as SectionLNsseatwork2.html
-    - Copy this .md as well and type your answer here.
+    - Make a copy of this .md file to your Q4 repository and name it as **SectionLNseatwork2.md** example **9LiCruzSeatwork2.md**. Place it in your q4 repository vscode local computer. Committing frequently to your Github repository.  
+    - Copy the code below and paste it inside a new file (name it as SectionLNseatwork2.html). Place this file in the same location of the .md file. 
     - Change the content values of the meta tags to your names for author/s and the date today for revised.
-    - Please do the following tasks that will ask you to reposition HTML elements then answer the guided question for each task on the .md file. commit changes to the .md file.
-    **- This seatwork is worth 20pts and should be submitted by the end of the period**. 
+    - Please do the following tasks that will ask you to reposition HTML elements then answer the guided question for each task on the .md file. Commit changes to the .md file and to the .html file as well.
+    **- This seatwork is worth 20pts and should be submitted by the end of the period** The link to [KHub submission bin](https://khub.mc.pshs.edu.ph/mod/assign/view.php?id=15481).
+      - Submit the links to your .md file and .html file.
 
 ```html
 <!DOCTYPE html>
