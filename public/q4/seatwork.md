@@ -28,6 +28,9 @@
       background: lightblue;
       padding: 10px;
     }
+    .footer {
+       opacity: 0.5;
+    }
     .sidebar {
       background: lightgreen;
       width: 150px;
