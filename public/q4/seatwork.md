@@ -6,13 +6,16 @@
 1. Please find your partner and get one sheet of pad paper and write your answers to the Guided, Challenge and Reflection Questions
 2. Guided Activity (30 minutes): 
 
-    - Copy the code below
+    - Copy the code below and paste it inside a new file in your vscode and then in your repository.  Name it as SectionLNsseatwork2.htmlCh
+    - Change the content values of the meta tags to your names for author/s and the date today for revised.
     - Please do the following tasks that will ask you to reposition HTML elements then answer the guided question for each task on the pad paper. **Submit your paper at the end of the period and this is worth 20pts**. 
 
 ```html
 <!DOCTYPE html>
 <html>
 <head>
+  <meta name="author" content="<your names>" />
+  <meta name="revised" content="<date today>" />
   <style>
     body { font-family: Arial, sans-serif; }
     .header, .footer {
@@ -78,32 +81,20 @@
 
 - Challenge: 
     * What changes that you have to do on the code that will position .notice box on the top right corner of the .content box? Please write the code.
-    * What do you notice on about the effect of z-index on .notice and .content boxes?
+    * What do you observe on about the effect of z-index on .notice and .content boxes?
 
 
 3. Please answer the following reflection questions (15 minutes)
 
-    a. Which position type felt most intuitive to use? Why?
+    a. How do you differentiate the different CSS position values (static, relative, absolute, fixed)? 
 
     b. How does absolute positioning depend on its parent element?
 
-    c. What real‑world examples can you think of for fixed positioning (e.g., sticky navbars)?
+    c. How do you differentiate sticky from fixed (you can research on sticky)?
 
-    d. If you were designing a webpage for a school event, how might you use positioning to highlight important information?
+    d. If you were designing a webpage for a school event, how might you use positioning to highlight important information? Please give concrete examples.
 
-## Rubrics for Grading 
 
-| Criteria | Excellent (3) | Proficient (2) | Developing (1) |
-|----------|---------------|----------------|----------------|
-| **Technical Accuracy** | Correctly applies all position values with proper syntax and intended effect | Applies most position values correctly, minor syntax/layout issues | Several errors or missing applications |
-| **Layout & Functionality** | Elements positioned logically, layout clear and functional | Layout mostly functional, minor misplacements | Layout confusing or broken |
-| **Creativity & Application** | Goes beyond instructions with creative positioning (e.g., notification box, z-index layering) | Completes required tasks with some creative touches | Only attempts basic tasks |
-| **Code Organization** | CSS neat, well‑structured, uses indentation/comments | CSS mostly organized, minor inconsistencies | CSS messy or hard to follow |
-| **Guided Question Responses** | Thoughtful, clear answers showing deep understanding | Answers show good understanding with minor gaps | Answers brief, partially correct or missing |
-| **Reflection Quality** | Insightful reflections connecting CSS positioning to real‑world design | Reflections show understanding with some practical connections | Reflections basic, limited or missing |
-| **Overall Effort & Completion** | All tasks completed thoroughly | Most tasks completed | Few tasks completed |
-
----
 
 
 
